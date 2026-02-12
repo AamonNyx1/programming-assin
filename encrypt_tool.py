@@ -1,4 +1,4 @@
-# Simple Encryption and Decryption Tool
+# Simple Message Encryption and Decryption Tool
 # Caesar Cipher 
 
 def encrypt(text, key):
