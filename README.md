@@ -1,4 +1,4 @@
-# Simple encrypton and decryption Tool
+# Simple message encrypton and decryption Tool
 
 ## Overwiew
 This project is about a simple tool that allows user to encrypt and decrypt message that 
