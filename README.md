@@ -14,7 +14,7 @@ And it is an example of cipher txt.
 
   python
 # Caesar Cipher
-#create a encryption function
+create a encryption function
      
       def encrypt(text, key):
     result = ""
