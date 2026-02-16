@@ -11,7 +11,7 @@ And it is an example of cipher txt.
 - decrypts text back to its original form
 - keeps non alphabetic characters unchanged
 - use command line interface
-
+---
 ## Step‑by‑Step Guide
 
 ### 1. Requirements
