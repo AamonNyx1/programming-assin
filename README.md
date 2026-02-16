@@ -35,25 +35,25 @@ And it is an example of cipher txt.
 3. **Run the Program**
    ```bash
    python encrypt_tool.py
-
+   ```
 4. **Menu**
-```
+```bash
 === Simple Encryption Tool ===
    Do you want to Encrypt (E) or Decrypt (D)?
 ```
 5. **User choice**
-   ```
+   ```bash
    === Simple Encryption Tool ===
    Do you want to Encrypt (E) or Decrypt (D)?E
    ```
 6. **Requirments**
-   ```
+   ```bash
    Enter your message: HELLO WORLD
    Enter your key (number): 3
    Encrypted Message: KHOOR ZRUOG
    ```
 7. **Reasult**
-   ```
+   ```bash
     Encrypted Message: KHOOR ZRUOG
    ```
 
