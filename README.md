@@ -11,30 +11,16 @@ And it is an example of cipher txt.
 - decrypts text back to its original form
 - keeps non alphabetic characters unchanged
 - use command line interface
+---
 
-  python
-# Caesar Cipher
-create a encryption function
-     
-      def encrypt(text, key):
-    result = ""
-    shift = key % 26
+## Step‑by‑Step Guide
 
-    for char in text:
-        if char.isalpha():
-            if char.isupper():
-                base = ord('A')
-            else:
-                base = ord('a')
+### 1. Requirements
+- Python 3 installed on your computer
+- A terminal or PowerShell to run the script
 
-            new_char = (ord(char) - base + shift) % 26 + base
-            result += chr(new_char)
-        else:
-            result += char
-
-    return result
-
-
-
-
-  
+### 2. Clone or download the project
+If you’re using GitHub:
+```bash
+git clone https://github.com/your-username/programming-assin.git
+cd programming-assin
