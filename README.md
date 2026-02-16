@@ -12,10 +12,10 @@ And it is an example of cipher txt.
 - keeps non alphabetic characters unchanged
 - use command line interface
 
-  ```python
+  python
 # Simple Message Encryption and Decryption Tool
 # Caesar Cipher
-##create a encryption function
+#create a encryption function
      
       def encrypt(text, key):
     result = ""
