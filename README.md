@@ -13,7 +13,6 @@ And it is an example of cipher txt.
 - use command line interface
 
   python
-# Simple Message Encryption and Decryption Tool
 # Caesar Cipher
 #create a encryption function
      
@@ -34,8 +33,8 @@ And it is an example of cipher txt.
             result += char
 
     return result
-#
-```
+
+
 
 
   
