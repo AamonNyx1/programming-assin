@@ -36,6 +36,10 @@ And it is an example of cipher txt.
    ```bash
    python encrypt_tool.py
 
+4.**menu**
+=== Simple Encryption Tool ===
+   Do you want to Encrypt (E) or Decrypt (D)? 
+
 
 
 
